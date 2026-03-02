@@ -16,5 +16,6 @@ class drive{
         
     sub s = new sub();
     System.out.print(s.a);
+    
     }
 }
