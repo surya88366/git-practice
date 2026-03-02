@@ -12,7 +12,9 @@ class sub extends base{
     }
 }
 class drive{
+    public static void main(String[] args){
+        
     sub s = new sub();
     System.out.print(s.a);
-
+    }
 }
